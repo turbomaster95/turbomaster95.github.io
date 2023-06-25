@@ -89,7 +89,7 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `<a href="https://semant.is-a.dev/web-beauty?notice=false>Thank me later!</a>"`,
+  footer: `You will <a href="https://semant.is-a.dev/web-beauty?notice=false>Thank me later!</a>"`,
 };
 
 export default config;
