@@ -85,15 +85,7 @@ const config = {
     themes: ['dark'],
 
     // Custom theme
-    customTheme: {
-      primary: '#fc055b',
-      secondary: '#219aaf',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
-      'base-100': '#E3E3ED',
-      '--rounded-box': '3rem',
-      '--rounded-btn': '3rem',
-    },
+    customTheme: {},
   },
 
   // Optional Footer. Supports plain text or HTML.
