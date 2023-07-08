@@ -25,7 +25,7 @@ const config = {
     telegram: '',
     website: 'https://deva.is-cool.dev/',
     phone: '',
-    email: 'dev@mail.deva.is-cool.dev',
+    email: 'dev@deva.is-cool.dev',
   },
   resume: {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
